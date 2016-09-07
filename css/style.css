@@ -1,5 +1,4 @@
 body {
-	background-color: ;
 	margin: 0px;
 	font-family: 'Lato', sans-serif;
 }
@@ -76,8 +75,6 @@ ul.nav li a:hover{
 /*Bagian Intro*/
 #intro{
 	height: 380px;
-	/*width: 100%;*/
-	background-color: #16a085;
 	background-image: url(../img/bg.jpg);
 	background-position: center;
 	/*margin: 10px 0px;*/
